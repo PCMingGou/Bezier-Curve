@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(cmh.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+e:\my_college_life\2018fall\cs334\a5\include\glui.h(880): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(86): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(87): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(112): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(120): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(137): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(141): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(179): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(180): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(188): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(202): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(203): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(219): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(226): warning C4018: “<”: 有符号/无符号不匹配
+e:\my_college_life\2018fall\cs334\a5\main.cpp(227): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+e:\my_college_life\2018fall\cs334\a5\main.cpp(361): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(364): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(367): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(370): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(373): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(376): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(379): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(382): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(385): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(388): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(391): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(394): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+e:\my_college_life\2018fall\cs334\a5\main.cpp(433): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+glui.lib(glui.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_bitmaps.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_bitmaps.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_bitmap_img_data.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_bitmap_img_data.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_button.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_button.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_checkbox.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_checkbox.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_control.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_control.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_edittext.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_edittext.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_node.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_node.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_panel.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_panel.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_spinner.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_spinner.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_string.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_string.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glui.lib(glui_window.obj) : warning LNK4099: 未找到 PDB“glui.pdb”(使用“glui.lib(glui_window.obj)”或在“E:\my_college_life\2018Fall\CS334\A5\Debug\glui.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  cmh.vcxproj -> E:\my_college_life\2018Fall\CS334\A5\Debug\A5.exe
